@@ -2,7 +2,7 @@
 
 # Introduction to Data Science by Springboard
 # Physical Fitness Test Analysis 
-### By Sumita Palanisamy
+#### Sumita Palanisamy
 
 ## Introduction and Data Collection
 
