@@ -1,13 +1,13 @@
 
 
-##### Introduction to Data Science by Springboard
-##### Physical Fitness Test Analysis 
-##### By Sumita Palanisamy
+#### Introduction to Data Science by Springboard
+#### Physical Fitness Test Analysis 
+#### By Sumita Palanisamy
 
 ## Introduction
 
 By law (California Education Code Section 60800), all public local educational agencies in California are required to administer the Physical Fitness Test (PFT) annually to all students in grades five, seven, and nine. The main goal of the test is to help students in starting life-long habits of regular physical activity.
-The test has six parts that show a level of fitness that offer a degree of defense against diseases that come from inactivity. The test results can be used by students, teachers, and parents. During the month of February, March, April, or May, the governing board of each LEA maintaining grades five, seven, or nine shall administer to each student in those grades the PFT.
+The test has six parts that show a level of fitness that offer a degree of defense against diseases that come from inactivity.During the month of February, March, April, or May, the governing board of each LEA maintaining grades five, seven, or nine shall administer to each student in those grades the PFT.
 
 ## The Problem
 
