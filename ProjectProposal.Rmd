@@ -1,7 +1,4 @@
----
-title: "Capstone Project Proposal"
-output: html_document
----
+
 
 ##### Introduction to Data Science by Springboard
 ##### Physical Fitness Test Analysis 
