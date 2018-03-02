@@ -29,13 +29,13 @@ The data for this project is the Physical Fitness Test  (PFT) data the state of 
 The following steps highlight the strategy to be adopted for carrying out the analysis for the Capstone project:
 
 *	Data Wrangling and Cleaning
-  +	Dropping columns that are irrelevant to the analysis
-  +	Exploratory Data Analysis
+    +  Dropping columns that are irrelevant to the analysis
+    +  Exploratory Data Analysis
 *	Perform Regression Analysis to determine factors that most influence the fitness of a student
-  +	Identify patterns and correlation between the different variables
-  +	Use data visualization for graphical analysis to answer questions on the dataset
+    +  Identify patterns and correlation between the different variables
+    +  Use data visualization for graphical analysis to answer questions on the dataset
 *	Predictive Analysis
-  +	Apply machine learning techniques to see if the student's fitness level can      be predicted based on various characteristics.
+    +  Apply machine learning techniques to see if the student’s fitness level can be predicted based on various characteristics.
 
 ## The Deliverables
 
