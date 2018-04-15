@@ -12,3 +12,5 @@ fitness$NoStud7[fitness$NoStud7 == 0] <- NA
 fitness$NoStud9[fitness$NoStud9 == 0] <- NA
 
 View(fitness)
+
+write.csv(fitness,file = "C:/Users/s/Documents/DataScience/DataScienceProject/fitness_clean.csv")
