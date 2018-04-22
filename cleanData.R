@@ -2,7 +2,8 @@ library(dplyr)
 library(tidyr)
 library(ggplot2)
 
-fitness <- read.csv(file="C:/Users/s/Documents/data.csv", header=TRUE, sep=",",stringsAsFactors=FALSE)
+# Read data and replace ** strings with NA
+fitness <- read.csv(file="C:/Users/s/Documents/data.csv", header=TRUE, sep=",",na.strings = "**",stringsAsFactors=FALSE)
 
 head(fitness)
 
@@ -18,6 +19,8 @@ fitness <- fitness[!(is.na(fitness$NoStud5)) | !(is.na(fitness$NoStud7))| !(is.n
 #Clean up rows that dont have data about the excercies
 fitness[!grepl("fitness", fitness$Line_Text),]
 
+#Clean up rows that have ** in the Percentage columns
+#fitness[!grepl("**", fitness$Perc5a),]
 
 #clean up the percentage columns
 
